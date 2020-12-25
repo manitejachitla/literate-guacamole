@@ -1,0 +1,28 @@
+.dashboard_section {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, #42548e 0%, #6b668c 100%);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    .create_todo_btn {
+        background-color: #6c7bab;
+        border: unset;
+        font-weight: 500;
+        &:hover {
+            background-color: #6c7bab;
+            border: unset;
+            border-color: unset;
+        }
+        &:active {
+            background-color: #6c7bab!important;
+            border: unset;
+            border-color: unset;
+        }
+        &:focus {
+            background-color: #6c7bab!important;
+            border: unset;
+            box-shadow: unset!important;
+            border-color: unset;
+        }
+    }
+}
