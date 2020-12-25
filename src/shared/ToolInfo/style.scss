@@ -1,0 +1,14 @@
+.tool_info {
+    &.card {
+        padding: 0.5rem;
+        background-color: #f0f5f9;
+        color: #000000;
+        border: unset;
+    }
+    .tool_into_title {
+        &.card-title {
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+        }
+    }
+}

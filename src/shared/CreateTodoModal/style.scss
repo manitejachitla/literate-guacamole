@@ -1,0 +1,13 @@
+.todo_modal_section {
+    .modal-content {
+        border-top: 5px solid #42548e;
+        .modal-footer {
+            .submit_btn {
+                background: linear-gradient(180deg, #42548e 0%, #6b668c 100%);
+            }
+            .cancel_btn {
+                background: linear-gradient(180deg, #42548e 0%, #6b668c 100%);
+            }
+        }
+    }
+}
