@@ -1,11 +1,18 @@
-# Getting Started with Create React App
+# How to run this project
 
-live-demo: [https://realchat-bcb08.web.app/](https://realchat-bcb08.web.app/)
 
-commands:
-yarn start  -- to start development server
-yarn build -- to create a production build
-yarn test - to run test cases
+#####1) clone project
+#####2) run `yarn install` or `npm install` to install node packages
+#####3) run `yarn start` to see output in browser
+#####3) run `yarn test` to run test cases
+
+
+#####live-demo: [https://realchat-bcb08.web.app/](https://realchat-bcb08.web.app/)
+
+####commands:
+#####`yarn start`  -- to start  development server
+#####`yarn build` -- to create a production build
+#####`yarn test` - to run test cases
 
 # Test cases code 
 
