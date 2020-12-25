@@ -1,0 +1,244 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActivityDetails component Matches the snapshot 1`] = `
+<div
+  className="dashboard_section container-fluid"
+>
+  <div
+    className="mb-3 row"
+  >
+    <div
+      className="col"
+    >
+      <button
+        aria-label={null}
+        className="create_todo_btn btn btn-secondary"
+        onClick={[Function]}
+        type="button"
+      >
+        Create Todo
+      </button>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="mb-4 col-12 col-md-3 col-lg-2"
+    >
+      <div
+        className="tool_info card"
+      >
+        <div
+          className="tool_into_title card-title"
+        >
+          ToDo
+        </div>
+        <div
+          className="p-0 card-body"
+        >
+          <div
+            className="card_info_section card"
+            onClick={[Function]}
+          >
+            <div
+              className="card_info_title card-title"
+            >
+              test1
+            </div>
+            <div
+              className="p-0 card-body"
+            >
+              <p
+                className="card_info_description"
+              >
+                description1
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="mb-4 col-12 col-md-3 col-lg-2"
+    >
+      <div
+        className="tool_info card"
+      >
+        <div
+          className="tool_into_title card-title"
+        >
+          InProgress
+        </div>
+        <div
+          className="p-0 card-body"
+        >
+          <div
+            className="card_info_section card"
+            onClick={[Function]}
+          >
+            <div
+              className="card_info_title card-title"
+            >
+              test2
+            </div>
+            <div
+              className="p-0 card-body"
+            >
+              <p
+                className="card_info_description"
+              >
+                description2
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="mb-4 col-12 col-md-3 col-lg-2"
+    >
+      <div
+        className="tool_info card"
+      >
+        <div
+          className="tool_into_title card-title"
+        >
+          InQA
+        </div>
+        <div
+          className="p-0 card-body"
+        >
+          <div
+            className="card_info_section card"
+            onClick={[Function]}
+          >
+            <div
+              className="card_info_title card-title"
+            >
+              test3
+            </div>
+            <div
+              className="p-0 card-body"
+            >
+              <p
+                className="card_info_description"
+              >
+                description3
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="mb-4 col-12 col-md-3 col-lg-2"
+    >
+      <div
+        className="tool_info card"
+      >
+        <div
+          className="tool_into_title card-title"
+        >
+          Done
+        </div>
+        <div
+          className="p-0 card-body"
+        >
+          <div
+            className="card_info_section card"
+            onClick={[Function]}
+          >
+            <div
+              className="card_info_title card-title"
+            >
+              test4
+            </div>
+            <div
+              className="p-0 card-body"
+            >
+              <p
+                className="card_info_description"
+              >
+                description4
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="mb-4 col-12 col-md-3 col-lg-2"
+    >
+      <div
+        className="tool_info card"
+      >
+        <div
+          className="tool_into_title card-title"
+        >
+          Blocked
+        </div>
+        <div
+          className="p-0 card-body"
+        >
+          <div
+            className="card_info_section card"
+            onClick={[Function]}
+          >
+            <div
+              className="card_info_title card-title"
+            >
+              test5
+            </div>
+            <div
+              className="p-0 card-body"
+            >
+              <p
+                className="card_info_description"
+              >
+                description5
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="mb-4 col-12 col-md-3 col-lg-2"
+    >
+      <div
+        className="tool_info card"
+      >
+        <div
+          className="tool_into_title card-title"
+        >
+          Deployed
+        </div>
+        <div
+          className="p-0 card-body"
+        >
+          <div
+            className="card_info_section card"
+            onClick={[Function]}
+          >
+            <div
+              className="card_info_title card-title"
+            >
+              test6
+            </div>
+            <div
+              className="p-0 card-body"
+            >
+              <p
+                className="card_info_description"
+              >
+                description6
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
